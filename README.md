@@ -1,2 +1,2 @@
 # Science Diffusion
-Ongoing work on science diffusion. WIP code.
+Repo for ongoing work on science diffusion. WIP.
